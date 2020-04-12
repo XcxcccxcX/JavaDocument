@@ -4,7 +4,7 @@
 <h1 align="center">xcx_java</h1>
 
 [常用资源]()
-[GitHub]()
+[GitHub](https://github.com/XcxcccxcX/JavaDocument/)
 [开始阅读](#xcx_java)
 
 
