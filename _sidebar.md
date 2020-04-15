@@ -4,6 +4,10 @@
   * [使用Git上传项目至GitHub](./docs/git-1-上传本地项目至GitHub.md)
 
 * [备战面试](./docs/a-1备战面试.md)
+
+* 书籍  
+
+  * [深入理解Java虚拟机](./docs/深入理解Java虚拟机.pdf)
   
 * Java
 
