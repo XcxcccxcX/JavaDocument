@@ -20,7 +20,14 @@
   * [操作系统](./docs/c-4操作系统.md)
 
 * Liunx
-  * [linux 报错](./docs/linux-1-Permission denied.md)
+  * [linux 报错](./docs/linux-1-error-Permission-denied.md)
+  * [linux 软件的安装与卸载](./docs/linux-2-安装与卸载.md)
+  * [linux 操作使用](./docs/linux-3-操作使用.md)
+  * [linux 使用jstack](./docs/linux-4-jstack.md)
 
+* Java 工作中的问题及解决方案
+  * [Java RAS 非对称加密](./docs/Java_RSA_非对称加密.md)
+  * [Java maven](./docs/maven-1-记录maven-clean报错.md)
+  * 
   
 

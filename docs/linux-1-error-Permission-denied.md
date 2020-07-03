@@ -20,3 +20,9 @@
      ![image.png](https://i.loli.net/2020/04/17/86M3Srwf7WEXOe9.png)
 
 * 问题解决
+
+## 2. 记录一次linux 上连接5.7mysql 输入密码后  
+> 2020/5/13  10：21  
+
+* Mysql错误:Ignoring query to other database
+经过检查后发现 是连接mysql 是  mysql -u root -p  **u** 没有加上 加上问题解决 
